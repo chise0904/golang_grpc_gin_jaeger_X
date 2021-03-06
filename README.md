@@ -9,14 +9,14 @@ jaeger opentracing across microservices & between functions call
 
 # Deps
 
-go get "github.com/opentracing/opentracing-go"
-go get "github.com/uber/jaeger-client-go"
-go get "github.com/grpc-ecosystem/go-grpc-middleware"
+  go get "github.com/opentracing/opentracing-go"
+  go get "github.com/uber/jaeger-client-go"
+  go get "github.com/grpc-ecosystem/go-grpc-middleware"
 
-go get "github.com/gin-gonic/gin"
-go get "google.golang.org/grpc"
+  go get "github.com/gin-gonic/gin"
+  go get "google.golang.org/grpc"
 
-go get "github.com/uber/jaeger-lib/metrics/prometheus"
+  go get "github.com/uber/jaeger-lib/metrics/prometheus"
 
 # jaeger
 
