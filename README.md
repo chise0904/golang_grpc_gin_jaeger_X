@@ -1,9 +1,10 @@
 example of 
 
-gin http server + 
-grpc server + 
-jaeger opentracing in http server
-
+gin http server (httpServer/server.go)       
++ grpc server (grpcServer/server.go)    
++ jaeger opentracing in http server     
++ grpc client (client/client.go)     
+      
 jaeger opentracing across microservices & between functions call
 
 # jaeger opentracing request chain
